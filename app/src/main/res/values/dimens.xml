@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- specific proprieties of the bucketdrops button on the first screen, dependding on the state pressed or not -->
+    <dimen name="btn_add_it_corner_radius_color_purple">2dp</dimen>
+    <dimen name="btn_add_it_corner_radius_green">2dp</dimen>
+    <dimen name="btn_add_it_stroke_width">1dp</dimen>
+
+    <!--proprieties of the bucketdrops logo image on the first screen -->
+
+    <dimen name="iv_logo_size">192dp</dimen>
+    <dimen name="iv_logo_margin">84dp</dimen>
+
+    <!-- generic proprieties of the bucketdrops button on the first screen -->
+    <dimen name="btn_add_horizontal_margin">60dp</dimen>
+    <dimen name="btn_add_vertical_margin">8dp</dimen>
+    <dimen name="btn_add_font_size">28sp</dimen>
+    <dimen name="btn_add_margin">24dp</dimen>
+    <dimen name="tv_title_vertical_margin">26dp</dimen>
+    <dimen name="tv_title_font_size">18sp</dimen>
+</resources>

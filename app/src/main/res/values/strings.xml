@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BucketDrops</string>
+    <string name="str_add_rop">Add a Drop</string>
+    <string name="hint_et_drop">What is it?</string>
+    <string name="str_add_it">Add it</string>
+</resources>
